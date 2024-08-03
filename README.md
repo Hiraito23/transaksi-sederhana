@@ -25,4 +25,6 @@
     <li>Express JS / backend</li>
     <li>MySQL / database</li>
   </ul>
+
+  <p>MySQL database coming soon</p>
 </div>
